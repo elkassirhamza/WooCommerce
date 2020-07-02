@@ -1,0 +1,45 @@
+2020-06-28T17:25:27+00:00 CRITICAL Uncaught Error: Call to undefined function dotlife_get_wp_post() in C:\xampp1\htdocs\wordpress\wp-content\plugins\dotlife-elementor\page-fields.php:167
+Stack trace:
+#0 C:\xampp1\htdocs\wordpress\wp-admin\includes\template.php(1345): dotlife_page_new_meta_box(Object(WP_Post), Array)
+#1 C:\xampp1\htdocs\wordpress\wp-admin\includes\post.php(2282): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#2 C:\xampp1\htdocs\wordpress\wp-admin\edit-form-blocks.php(427): the_block_editor_meta_boxes()
+#3 C:\xampp1\htdocs\wordpress\wp-admin\post.php(187): require('C:\\xampp1\\htdoc...')
+#4 {main}
+  thrown in C:\xampp1\htdocs\wordpress\wp-content\plugins\dotlife-elementor\page-fields.php on line 167
+
+2020-06-28T17:26:05+00:00 CRITICAL Uncaught Error: Call to undefined function dotlife_get_wp_post() in C:\xampp1\htdocs\wordpress\wp-content\plugins\dotlife-elementor\page-fields.php:167
+Stack trace:
+#0 C:\xampp1\htdocs\wordpress\wp-admin\includes\template.php(1345): dotlife_page_new_meta_box(Object(WP_Post), Array)
+#1 C:\xampp1\htdocs\wordpress\wp-admin\includes\post.php(2282): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#2 C:\xampp1\htdocs\wordpress\wp-admin\edit-form-blocks.php(427): the_block_editor_meta_boxes()
+#3 C:\xampp1\htdocs\wordpress\wp-admin\post.php(187): require('C:\\xampp1\\htdoc...')
+#4 {main}
+  thrown in C:\xampp1\htdocs\wordpress\wp-content\plugins\dotlife-elementor\page-fields.php on line 167
+
+2020-06-28T17:27:01+00:00 CRITICAL Uncaught Error: Call to undefined function dotlife_get_wp_post() in C:\xampp1\htdocs\wordpress\wp-content\plugins\dotlife-elementor\page-fields.php:167
+Stack trace:
+#0 C:\xampp1\htdocs\wordpress\wp-admin\includes\template.php(1345): dotlife_page_new_meta_box(Object(WP_Post), Array)
+#1 C:\xampp1\htdocs\wordpress\wp-admin\includes\post.php(2282): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#2 C:\xampp1\htdocs\wordpress\wp-admin\edit-form-blocks.php(427): the_block_editor_meta_boxes()
+#3 C:\xampp1\htdocs\wordpress\wp-admin\post.php(187): require('C:\\xampp1\\htdoc...')
+#4 {main}
+  thrown in C:\xampp1\htdocs\wordpress\wp-content\plugins\dotlife-elementor\page-fields.php on line 167
+
+2020-06-28T17:27:24+00:00 CRITICAL Uncaught Error: Call to undefined function dotlife_get_wp_post() in C:\xampp1\htdocs\wordpress\wp-content\plugins\dotlife-elementor\page-fields.php:167
+Stack trace:
+#0 C:\xampp1\htdocs\wordpress\wp-admin\includes\template.php(1345): dotlife_page_new_meta_box(Object(WP_Post), Array)
+#1 C:\xampp1\htdocs\wordpress\wp-admin\includes\post.php(2282): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#2 C:\xampp1\htdocs\wordpress\wp-admin\edit-form-blocks.php(427): the_block_editor_meta_boxes()
+#3 C:\xampp1\htdocs\wordpress\wp-admin\post.php(187): require('C:\\xampp1\\htdoc...')
+#4 {main}
+  thrown in C:\xampp1\htdocs\wordpress\wp-content\plugins\dotlife-elementor\page-fields.php on line 167
+
+2020-06-28T17:29:21+00:00 CRITICAL Uncaught Error: Call to undefined function dotlife_get_wp_post() in C:\xampp1\htdocs\wordpress\wp-content\plugins\dotlife-elementor\page-fields.php:167
+Stack trace:
+#0 C:\xampp1\htdocs\wordpress\wp-admin\includes\template.php(1345): dotlife_page_new_meta_box(Object(WP_Post), Array)
+#1 C:\xampp1\htdocs\wordpress\wp-admin\includes\post.php(2282): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#2 C:\xampp1\htdocs\wordpress\wp-admin\edit-form-blocks.php(427): the_block_editor_meta_boxes()
+#3 C:\xampp1\htdocs\wordpress\wp-admin\post-new.php(72): require('C:\\xampp1\\htdoc...')
+#4 {main}
+  thrown in C:\xampp1\htdocs\wordpress\wp-content\plugins\dotlife-elementor\page-fields.php on line 167
+
